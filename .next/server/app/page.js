@@ -1,0 +1,13 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0bfn67s._.js")
+R.c("server/chunks/ssr/00c8_next_dist_esm_build_templates_app-page_0lp2sve.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0rq~ou-._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0g4x8ze._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0umgib4._.js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_04kaavh._.js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_builtin_forbidden_0mx_8x..js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_builtin_unauthorized_0g976e~.js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_builtin_global-error_0yp7w51.js")
+R.c("server/chunks/ssr/Desktop_VEZEL APP TRADING__next-internal_server_app_page_actions_0ntgt_h.js")
+R.m(55001)
+module.exports=R.m(55001).exports

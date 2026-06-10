@@ -1,0 +1,12 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__139rvjz._.js")
+R.c("server/chunks/ssr/00c8_next_dist_esm_build_templates_app-page_0153xmo.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0rq~ou-._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0g4x8ze._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0umgib4._.js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_04kaavh._.js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_builtin_forbidden_0mx_8x..js")
+R.c("server/chunks/ssr/00c8_next_dist_client_components_builtin_unauthorized_0g976e~.js")
+R.c("server/chunks/ssr/0amv_VEZEL APP TRADING__next-internal_server_app__not-found_page_actions_0zcz389.js")
+R.m(68476)
+module.exports=R.m(68476).exports
